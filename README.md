@@ -5,7 +5,7 @@ This package offers an implementation of SePaL. For more details, please see the
 
 ## Framework Overview
 
-we propose a Self-Supervised Prototype Representation Learning (SePaL) framework for dynamic corporate profiling. By exploiting the topological information of an event graph and exploring self-supervised learning techniques, SePaL can obtain unified corporate representations that are robust to event noises and can be easily fine-tuned to benefit various down-stream applications with only a few annotated data.
+A Self-Supervised Prototype Representation Learning (SePaL) framework is proposed for dynamic corporate profiling. By exploiting the topological information of an event graph and exploring self-supervised learning techniques, SePaL can obtain unified corporate representations that are robust to event noises and can be easily fine-tuned to benefit various down-stream applications with only a few annotated data.
 
 <p align="center">
   <img width="900" height="300" src=./SePaL_framework.png>
