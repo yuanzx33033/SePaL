@@ -1,6 +1,6 @@
 ## Self-Supervised Prototype Representation Learning for Event-Based Corporate Profiling (SePaL)
 
-This package offers an implementation of SePaL. For more details, please see the paper (https://www.researchgate.net/publication/346573809_Self-Supervised_Prototype_Representation_Learning_for_Event-Based_Corporate_Profiling)
+This package offers an implementation of SePaL. For more details, please see the paper [Self-Supervised_Prototype_Representation_Learning_for_Event-Based_Corporate_Profiling](https://www.aaai.org/AAAI21Papers/AAAI-1174.YuanZ.pdf).
 
 
 ## Framework Overview
